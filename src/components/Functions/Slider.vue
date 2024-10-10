@@ -94,5 +94,4 @@ const starsArray = computed(() => {
     transform: translateX(10px);
 }
 
-/* Add additional styles for the slider if needed */
 </style>
