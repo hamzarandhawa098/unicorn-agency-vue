@@ -2,8 +2,10 @@
 import Service1 from './Services/Service1.vue';
 import Service2 from './Services/Service2.vue';
 import Service3 from './Services/Service3.vue';
+import Companies from './Companies.vue';
 </script>
 <template>
+    <Companies />
 <div>
     <div class="max-w-7xl mx-auto py-16 px-4 sm:px-6 lg:px-8 text-center">
         <h1 class="text-6.25xl font-extrabold text-black font-sans">Our Services</h1>
